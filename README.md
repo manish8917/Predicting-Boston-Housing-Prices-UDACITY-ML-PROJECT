@@ -12,3 +12,6 @@ The dataset for this project originates from the UCI Machine Learning Repository
 -  *The feature 'MEDV' has been multiplicatively scaled to account for 35 years of market inflation.*
 
 In addition to implementing code, there will be questions that you must answer which related to the project and its implementation. Each section where We will answer a question is preceded by a 'Question X' header. Carefully read each question and provide thorough answers in the following text boxes that begin with 'Answer:'. Project submission will be evaluated based on your answers to each of the questions and the implementation you provide.
+
+### Please Note:
+### I've executed this project work on my local machine with all the project rubrics to meet all required specifications of Udacity Nanodegree Program & uploaded here for reference.
